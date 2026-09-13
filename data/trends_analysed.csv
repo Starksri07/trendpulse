@@ -1,0 +1,98 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+49678969,"Why are AI agents lying, cheating and coordinating?",technology,232,306,jonifico,2026-09-13 16:15:09.623493,1.3133047210300428,True
+49679459,The Interim Computer Museum,technology,118,13,mulmen,2026-09-13 16:15:10.724604,0.1092436974789916,False
+49619848,Apple iPod Engraver (2019),technology,226,57,NaOH,2026-09-13 16:15:15.072509,0.2511013215859031,True
+49673098,Nvidia is the central bank of AI,technology,489,343,tolugenius,2026-09-13 16:15:16.147351,0.7,True
+49678683,Everyone should slow down AI development except for me,technology,500,299,xena,2026-09-13 16:15:20.558902,0.5968063872255489,True
+49678435,AgentsDock: An IDE designed for agentic AI research,technology,62,29,ZihuiGeorgia,2026-09-13 16:15:22.720455,0.4603174603174603,False
+49645480,"LG denies TV spying claims, says tracking and snooping concerns 'not true'",technology,539,422,datakan,2026-09-13 16:15:29.197188,0.7814814814814814,True
+49636479,Getting 50 GB/S Back from the Apple Neural Engine,technology,150,27,eiln,2026-09-13 16:15:30.292719,0.17880794701986755,False
+49676820,"Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",technology,244,136,theanonymousone,2026-09-13 16:15:41.220372,0.5551020408163265,True
+49658672,I fixed a tractor using John Deere's self-repair service. Farmers aren't sold,technology,130,141,sbulaev,2026-09-13 16:15:43.531185,1.0763358778625953,False
+49626718,A Design Space Exploration of Async/Await,technology,441,127,wcrichton,2026-09-13 16:15:44.633966,0.2873303167420814,True
+49662371,A misalignment of AI in mathematics,technology,1198,1175,meredydd,2026-09-13 16:15:48.618632,0.9799833194328608,True
+49668386,google.com/goto: Google's anti-scraping update,technology,648,507,1e1a,2026-09-13 16:15:54.650526,0.7812018489984591,True
+49680858,Why So Many AI Researchers Think the Machines Could Kill Everyone,technology,13,14,joozio,2026-09-13 16:15:55.825126,1.0,False
+49671159,The worst spam emails: iLands AI agent hustle,technology,113,54,ColinWright,2026-09-13 16:16:01.634033,0.47368421052631576,False
+49679765,JWST finds extreme star-forming galaxies masquerading as faint quasars,technology,6,1,wglb,2026-09-13 16:16:02.725221,0.14285714285714285,False
+49662990,I spent $220 on Google app ads and 60% of the installs were robots,technology,737,409,nickabe,2026-09-13 16:16:03.812692,0.55420054200542,True
+49671972,A few good ideas in programming languages,technology,96,61,airhangerf15,2026-09-13 16:16:04.897135,0.6288659793814433,False
+49680485,"When anyone can build software, who decides what not to build?",technology,33,28,younss,2026-09-13 16:16:15.307623,0.8235294117647058,False
+49679685,Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months,technology,28,20,pseudolus,2026-09-13 16:16:16.433395,0.6896551724137931,False
+49670032,Retrospectively Reverse-Engineering Apple's Neural Engine,technology,229,32,zdw,2026-09-13 16:16:19.102207,0.1391304347826087,True
+49671237,How Trail of Bits helps verify the integrity of Signal chats,technology,71,47,dgroshev,2026-09-13 16:16:24.738619,0.6527777777777778,False
+49676849,OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026,technology,89,63,humanlion87,2026-09-13 16:16:33.345939,0.7,False
+49662214,λ Snap – An inviting programming language for kids and adults for CS study,technology,179,112,dr_kiszonka,2026-09-13 16:16:37.872985,0.6222222222222222,True
+49681012,"AI agents tested by OpenAI involved in cyber-attack on service, say researchers",technology,5,0,nobody9999,2026-09-13 16:16:41.731880,0.0,False
+49672557,"Europe's ""Less"" Is Doing More Than Anyone Gives It Credit For",worldnews,104,55,u1hcw9nx,2026-09-13 16:18:41.826455,0.5238095238095238,False
+49642396,SystemIO conflicts are not firmware bugs,worldnews,34,6,haeseong,2026-09-13 16:18:53.714959,0.17142857142857143,False
+49663054,CIA Releases President's Daily Briefs in Commemoration of 9/11,worldnews,152,78,stmw,2026-09-13 16:19:16.092030,0.5098039215686274,False
+49666735,OpenAI agents carried out an undisclosed attack on RubyGems,worldnews,935,582,chao-,2026-09-13 16:19:19.486345,0.6217948717948718,True
+49660576,Global Glacier Extinction Explorer,worldnews,158,64,guillego,2026-09-13 16:19:32.985285,0.4025157232704403,False
+49674666,"Revolut confirms customer data breach, falling for fake government requests",worldnews,44,13,unbeli,2026-09-13 16:19:34.134410,0.28888888888888886,False
+49679971,JPMorgan cut off Situational Awareness lending after AI losses,worldnews,6,2,1vuio0pswjnm7,2026-09-13 16:20:06.033091,0.2857142857142857,False
+49628614,Understanding the recent DDoS attack against Read the Docs,worldnews,216,78,davidfischer,2026-09-13 16:20:57.041831,0.35944700460829493,True
+49658299,Houthis 'take control' of key island in global shipping route,worldnews,387,692,consumer451,2026-09-13 16:21:11.468167,1.7835051546391754,True
+49667822,"""What Is an 'AI Warning Shot'?"" (2024)",worldnews,9,0,simonpure,2026-09-13 16:22:16.568244,0.0,False
+49624856,How I advertise malicious software on Google Ads,worldnews,435,260,xlii,2026-09-13 16:22:22.720904,0.5963302752293578,True
+49681276,Dramatic insider warnings over AI fall flat with some in Silicon Valley,worldnews,23,48,chrisjj,2026-09-13 16:22:45.930450,2.0,False
+49678961,A.I. Slopware Is Everywhere Now. Nobody Is Using It,worldnews,15,0,colinprince,2026-09-13 16:22:59.999974,0.0,False
+49646181,I have a theory that software drives people insane,worldnews,466,197,rglover,2026-09-13 16:24:39.200804,0.42184154175588867,True
+49674442,ClickFix attacks infecting PCs and Macs are going viral,worldnews,10,4,joozio,2026-09-13 16:24:50.071052,0.36363636363636365,False
+49652239,Towards a taxonomy of cliches in Space Opera,worldnews,10,0,rznicolet,2026-09-13 16:26:08.356230,0.0,False
+49671460,Overshoot: The World Is Hitting Point of No Return on Climate,worldnews,44,16,throw0101a,2026-09-13 16:26:33.811004,0.35555555555555557,False
+49666424,UK Police to crack down on face coverings at protests,worldnews,11,2,a2fz,2026-09-13 16:27:27.495507,0.16666666666666666,False
+49668914,OpenAI agents attacked RubyGems back in May,worldnews,36,1,lumpa,2026-09-13 16:27:32.100921,0.02702702702702703,False
+49644985,"USPS Failed to Properly Handle Some Primary Election Ballots, Audit Finds",worldnews,48,15,hn_acker,2026-09-13 16:28:20.948928,0.30612244897959184,False
+49677642,OpenAI rules out IPO this year as Altman/Musk/Amodei warn AI is moving too fast,worldnews,7,1,shinryudbz,2026-09-13 16:28:39.842005,0.125,False
+49681346,"Deepfakes are wrecking influencers' credibility, one fake ad at a time",sports,7,1,andsoitis,2026-09-13 16:30:24.817739,0.125,False
+49634928,Testing Race Conditions,sports,65,4,alpaylan,2026-09-13 16:31:20.419833,0.06060606060606061,False
+49642531,"List of references on Sony websites to players ""owning"" their digital games",sports,445,156,haunter,2026-09-13 16:31:47.302104,0.34977578475336324,True
+49680395,"Influential people don't network, they build social capital",sports,8,0,AntonZ234,2026-09-13 16:31:59.325222,0.0,False
+49674280,"Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",sports,6,1,carsonpoole,2026-09-13 16:32:25.517282,0.14285714285714285,False
+49676728,Consumer Rights Wiki: 44 instances in which Sony says you own your games,sports,10,0,emptybits,2026-09-13 16:33:16.470207,0.0,False
+49669001,macOS defaults list: Incomplete list of macOS defaults commands with demos,sports,37,1,zdw,2026-09-13 16:34:40.953224,0.02631578947368421,False
+49658483,Show HN: Clawfight.ai MCP-driven agentic game play,sports,13,15,wesleyhales,2026-09-13 16:35:12.148763,1.0714285714285714,False
+49620760,Testing race conditions with mem access tracing and stack-based delay injection,sports,19,1,mfrw,2026-09-13 16:35:23.070293,0.05,False
+49676025,Microsoft Slaps Hours Limits on Xbox Game Pass Cloud Gaming,sports,5,1,heisenbit,2026-09-13 16:36:47.317834,0.16666666666666666,False
+49673026,A Fruit Fly's Disembodied Brain Is Now Trading Bitcoin on Coinbase,sports,6,1,geox,2026-09-13 16:37:25.287238,0.14285714285714285,False
+49627306,Microsoft/TracerAI withdraws copyright takedown against Luanti,sports,64,10,daper,2026-09-13 16:39:30.470551,0.15384615384615385,False
+49659986,Helion Moves Fusion Goalposts,sports,11,1,staplung,2026-09-13 16:40:18.450970,0.08333333333333333,False
+49624717,AlphaGenome maps 9B DNA variants,science,103,7,ltononro,2026-09-13 16:46:53.223982,0.0673076923076923,False
+49624456,Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them,science,154,48,bookofjoe,2026-09-13 16:47:15.948001,0.3096774193548387,False
+49678918,Scientists Create a New Form of Ice at More Than 2000°C,science,18,6,jnord,2026-09-13 16:47:58.499672,0.3157894736842105,False
+49681720,Musk's secretive backer builds $40B SpaceX stake,science,5,1,sbulaev,2026-09-13 16:48:03.533541,0.16666666666666666,False
+49667375,Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies,science,143,85,upofadown,2026-09-13 16:48:37.144002,0.5902777777777778,False
+49665711,AI researchers debate how close we are to recursive self-improvement,science,117,116,artninja1988,2026-09-13 16:48:46.165983,0.9830508474576272,False
+49639408,More questions about whether researchers can trust OpenAI with unpublished math,science,866,813,pred_,2026-09-13 16:48:50.172879,0.9377162629757786,True
+49670493,"Resistance Training Prescription for Muscle Function, Hypertrophy in Health",science,58,33,ultral,2026-09-13 16:48:53.422486,0.559322033898305,False
+49637544,Experimental Evaluation Methodology for the Era of No Steady Performance [pdf],science,6,1,luu,2026-09-13 16:49:01.262203,0.14285714285714285,False
+49628429,Planet Labs' open satellite feed,science,188,34,marklit,2026-09-13 16:49:09.084339,0.17989417989417988,True
+49611251,AlphaGenome Atlas: a high-resolution map of human DNA,science,604,133,utiiiD,2026-09-13 16:50:09.492881,0.21983471074380165,True
+49622561,How GPT‑5.6 Sol helps run quantum computing experiments,science,149,107,theanonymousone,2026-09-13 16:50:21.199574,0.7133333333333334,False
+49653328,Exercise intensity is associated with cardiometabolic health,science,138,73,qclibre22,2026-09-13 16:51:14.411286,0.5251798561151079,False
+49610641,AlphaGenome Atlas predictive map of every DNA letter change in the human genome,science,91,13,fady0,2026-09-13 16:51:25.236642,0.14130434782608695,False
+49611230,ZX Spectrum: Experimenting with 1-Bit Sound,science,108,37,ibobev,2026-09-13 16:51:32.131596,0.3394495412844037,False
+49656496,The Waymo effect: how AI is quietly making research less collaborative,science,332,299,JohnHammersley,2026-09-13 16:52:38.583659,0.8978978978978979,True
+49644603,Show HN: See Sounds on Your Webcam,entertainment,17,5,jimhi,2026-09-13 16:54:48.117163,0.2777777777777778,False
+49653683,Metamorphosis: Transformations in the Early Modern Flap Book (19th Century),entertainment,5,0,benbreen,2026-09-13 16:54:55.807372,0.0,False
+49649789,Show HN: Bodily Oddities,entertainment,324,201,vesterde,2026-09-13 16:55:14.197707,0.6184615384615385,True
+49677480,Show HN: What If Donut.c but with Any ASCII Art,entertainment,11,1,areofyl,2026-09-13 16:55:22.381348,0.08333333333333333,False
+49665864,"Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",entertainment,67,25,mirza_rizvi,2026-09-13 16:55:41.618583,0.36764705882352944,False
+49677916,Japan's book scene is quietly moving from bookstores to libraries,entertainment,28,1,herbertl,2026-09-13 16:55:42.958364,0.034482758620689655,False
+49660676,Show HN: Godot and Rust based multiplexer (terminal panes and more),entertainment,93,48,1nv1n,2026-09-13 16:56:14.959795,0.5106382978723404,False
+49678711,Show HN: Most Penalized HN Stories,entertainment,17,3,jwarden,2026-09-13 16:56:35.855959,0.16666666666666666,False
+49659647,"Show HN: Hacker News, without AI",entertainment,200,88,postalcoder,2026-09-13 16:57:04.035333,0.43781094527363185,True
+49637385,Show HN: What if the speed of light was 5 km/h?,entertainment,618,282,dmitrybrant,2026-09-13 16:57:20.475889,0.4555735056542811,True
+49667188,Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents,entertainment,42,21,zachsaw,2026-09-13 16:57:37.692802,0.4883720930232558,False
+49647134,Music Theory for the 21st-Century Classroom,entertainment,299,146,aanet,2026-09-13 16:57:46.585115,0.4866666666666667,True
+49662496,"Show HN: Toast, a by default in-terminal IDE",entertainment,81,88,dividedcomet,2026-09-13 16:57:58.765962,1.0731707317073171,False
+49623398,Show HN: Compute polynomials twice as fast,entertainment,136,42,thomasahle,2026-09-13 16:58:00.986411,0.30656934306569344,False
+49660783,"Show HN: Hacker News, Without AI",entertainment,193,80,otherayden,2026-09-13 16:58:04.843097,0.41237113402061853,True
+49679450,Apple *deletes* your Apple Music library if you unsubscribe,entertainment,17,6,behnamoh,2026-09-13 16:58:05.951098,0.3333333333333333,False
+49633534,Factoring RSA 260,entertainment,132,18,samyok,2026-09-13 16:58:08.588643,0.13533834586466165,False
+49669012,Show HN: Don't Hit Send – the model answers while you type,entertainment,7,2,RomulusHill,2026-09-13 16:58:27.371680,0.25,False
+49630125,"Show HN: DOOM in the kernel, or fibers in eBPF",entertainment,52,14,ayles,2026-09-13 16:58:32.873217,0.2641509433962264,False
+49663429,Show HN: I built a hand-modeled 3D Windows 98 portfolio with Three.js,entertainment,15,4,Abstract2D,2026-09-13 16:58:42.525711,0.25,False
+49678173,The Fear Index [Book],entertainment,7,0,BiraIgnacio,2026-09-13 16:58:51.853628,0.0,False
+49645803,"Show HN: MultiMatte, a Promptable Image Background Removal Model",entertainment,55,8,snyy,2026-09-13 16:58:57.171260,0.14285714285714285,False
