@@ -1,0 +1,126 @@
+post_id,title,category,score,num_comments,author,collected_at
+49678969,"Why are AI agents lying, cheating and coordinating?",technology,232,306,jonifico,2026-09-13T16:15:09.623493
+49679459,The Interim Computer Museum,technology,118,13,mulmen,2026-09-13T16:15:10.724604
+49619848,Apple iPod Engraver (2019),technology,226,57,NaOH,2026-09-13T16:15:15.072509
+49673098,Nvidia is the central bank of AI,technology,489,343,tolugenius,2026-09-13T16:15:16.147351
+49678683,Everyone should slow down AI development except for me,technology,500,299,xena,2026-09-13T16:15:20.558902
+49678435,AgentsDock: An IDE designed for agentic AI research,technology,62,29,ZihuiGeorgia,2026-09-13T16:15:22.720455
+49645480,"LG denies TV spying claims, says tracking and snooping concerns 'not true'",technology,539,422,datakan,2026-09-13T16:15:29.197188
+49636479,Getting 50 GB/S Back from the Apple Neural Engine,technology,150,27,eiln,2026-09-13T16:15:30.292719
+49676820,"Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",technology,244,136,theanonymousone,2026-09-13T16:15:41.220372
+49658672,I fixed a tractor using John Deere's self-repair service. Farmers aren't sold,technology,130,141,sbulaev,2026-09-13T16:15:43.531185
+49626718,A Design Space Exploration of Async/Await,technology,441,127,wcrichton,2026-09-13T16:15:44.633966
+49662371,A misalignment of AI in mathematics,technology,1198,1175,meredydd,2026-09-13T16:15:48.618632
+49668386,google.com/goto: Google's anti-scraping update,technology,648,507,1e1a,2026-09-13T16:15:54.650526
+49680858,Why So Many AI Researchers Think the Machines Could Kill Everyone,technology,13,14,joozio,2026-09-13T16:15:55.825126
+49671159,The worst spam emails: iLands AI agent hustle,technology,113,54,ColinWright,2026-09-13T16:16:01.634033
+49679765,JWST finds extreme star-forming galaxies masquerading as faint quasars,technology,6,1,wglb,2026-09-13T16:16:02.725221
+49662990,I spent $220 on Google app ads and 60% of the installs were robots,technology,737,409,nickabe,2026-09-13T16:16:03.812692
+49671972,A few good ideas in programming languages,technology,96,61,airhangerf15,2026-09-13T16:16:04.897135
+49680485,"When anyone can build software, who decides what not to build?",technology,33,28,younss,2026-09-13T16:16:15.307623
+49679685,Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months,technology,28,20,pseudolus,2026-09-13T16:16:16.433395
+49670032,Retrospectively Reverse-Engineering Apple's Neural Engine,technology,229,32,zdw,2026-09-13T16:16:19.102207
+49671237,How Trail of Bits helps verify the integrity of Signal chats,technology,71,47,dgroshev,2026-09-13T16:16:24.738619
+49676849,OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026,technology,89,63,humanlion87,2026-09-13T16:16:33.345939
+49662214,λ Snap – An inviting programming language for kids and adults for CS study,technology,179,112,dr_kiszonka,2026-09-13T16:16:37.872985
+49681012,"AI agents tested by OpenAI involved in cyber-attack on service, say researchers",technology,5,0,nobody9999,2026-09-13T16:16:41.731880
+49680485,"When anyone can build software, who decides what not to build?",worldnews,33,28,younss,2026-09-13T16:17:50.231296
+49679685,Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months,worldnews,28,20,pseudolus,2026-09-13T16:17:51.710394
+49681012,"AI agents tested by OpenAI involved in cyber-attack on service, say researchers",worldnews,5,0,nobody9999,2026-09-13T16:18:17.162999
+49672557,"Europe's ""Less"" Is Doing More Than Anyone Gives It Credit For",worldnews,104,55,u1hcw9nx,2026-09-13T16:18:41.826455
+49642396,SystemIO conflicts are not firmware bugs,worldnews,34,6,haeseong,2026-09-13T16:18:53.714959
+49663054,CIA Releases President's Daily Briefs in Commemoration of 9/11,worldnews,152,78,stmw,2026-09-13T16:19:16.092030
+49666735,OpenAI agents carried out an undisclosed attack on RubyGems,worldnews,935,582,chao-,2026-09-13T16:19:19.486345
+49660576,Global Glacier Extinction Explorer,worldnews,158,64,guillego,2026-09-13T16:19:32.985285
+49674666,"Revolut confirms customer data breach, falling for fake government requests",worldnews,44,13,unbeli,2026-09-13T16:19:34.134410
+49679971,JPMorgan cut off Situational Awareness lending after AI losses,worldnews,6,2,1vuio0pswjnm7,2026-09-13T16:20:06.033091
+49628614,Understanding the recent DDoS attack against Read the Docs,worldnews,216,78,davidfischer,2026-09-13T16:20:57.041831
+49658299,Houthis 'take control' of key island in global shipping route,worldnews,387,692,consumer451,2026-09-13T16:21:11.468167
+49667822,"""What Is an 'AI Warning Shot'?"" (2024)",worldnews,9,0,simonpure,2026-09-13T16:22:16.568244
+49624856,How I advertise malicious software on Google Ads,worldnews,435,260,xlii,2026-09-13T16:22:22.720904
+49678677,Novel Realizations of Warp Drive Spacetimes as Solutions of General Relativity,worldnews,3,1,lambdaone,2026-09-13T16:22:39.854453
+49681276,Dramatic insider warnings over AI fall flat with some in Silicon Valley,worldnews,23,48,chrisjj,2026-09-13T16:22:45.930450
+49678961,A.I. Slopware Is Everywhere Now. Nobody Is Using It,worldnews,15,0,colinprince,2026-09-13T16:22:59.999974
+49646181,I have a theory that software drives people insane,worldnews,466,197,rglover,2026-09-13T16:24:39.200804
+49674442,ClickFix attacks infecting PCs and Macs are going viral,worldnews,10,4,joozio,2026-09-13T16:24:50.071052
+49652239,Towards a taxonomy of cliches in Space Opera,worldnews,10,0,rznicolet,2026-09-13T16:26:08.356230
+49671460,Overshoot: The World Is Hitting Point of No Return on Climate,worldnews,44,16,throw0101a,2026-09-13T16:26:33.811004
+49666424,UK Police to crack down on face coverings at protests,worldnews,11,2,a2fz,2026-09-13T16:27:27.495507
+49668914,OpenAI agents attacked RubyGems back in May,worldnews,36,1,lumpa,2026-09-13T16:27:32.100921
+49644985,"USPS Failed to Properly Handle Some Primary Election Ballots, Audit Finds",worldnews,48,15,hn_acker,2026-09-13T16:28:20.948928
+49677642,OpenAI rules out IPO this year as Altman/Musk/Amodei warn AI is moving too fast,worldnews,7,1,shinryudbz,2026-09-13T16:28:39.842005
+49681346,"Deepfakes are wrecking influencers' credibility, one fake ad at a time",sports,7,1,andsoitis,2026-09-13T16:30:24.817739
+49634928,Testing Race Conditions,sports,65,4,alpaylan,2026-09-13T16:31:20.419833
+49642396,SystemIO conflicts are not firmware bugs,sports,34,6,haeseong,2026-09-13T16:31:28.205020
+49642531,"List of references on Sony websites to players ""owning"" their digital games",sports,445,156,haunter,2026-09-13T16:31:47.302104
+49680395,"Influential people don't network, they build social capital",sports,8,0,AntonZ234,2026-09-13T16:31:59.325222
+49674280,"Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",sports,6,1,carsonpoole,2026-09-13T16:32:25.517282
+49676728,Consumer Rights Wiki: 44 instances in which Sony says you own your games,sports,10,0,emptybits,2026-09-13T16:33:16.470207
+49669001,macOS defaults list: Incomplete list of macOS defaults commands with demos,sports,37,1,zdw,2026-09-13T16:34:40.953224
+49658483,Show HN: Clawfight.ai MCP-driven agentic game play,sports,13,15,wesleyhales,2026-09-13T16:35:12.148763
+49678417,Vince Carter called out modern NBA players for checking social media at halftime,sports,4,0,hbcondo714,2026-09-13T16:35:20.010765
+49620760,Testing race conditions with mem access tracing and stack-based delay injection,sports,19,1,mfrw,2026-09-13T16:35:23.070293
+49678768,Next StarCraft Game Announced at BlizzCon,sports,4,1,miiiiiike,2026-09-13T16:35:26.184788
+49676025,Microsoft Slaps Hours Limits on Xbox Game Pass Cloud Gaming,sports,5,1,heisenbit,2026-09-13T16:36:47.317834
+49677611,"Oldest evidence of habitual drug use traced back 25,000 years to Indonesia",sports,4,0,gmays,2026-09-13T16:36:51.883059
+49673026,A Fruit Fly's Disembodied Brain Is Now Trading Bitcoin on Coinbase,sports,6,1,geox,2026-09-13T16:37:25.287238
+49627306,Microsoft/TracerAI withdraws copyright takedown against Luanti,sports,64,10,daper,2026-09-13T16:39:30.470551
+49656047,Mining Qwen 3.8 reasoning trace for prompt/skill evaluation,sports,4,0,olekrk,2026-09-13T16:39:42.421060
+49659986,Helion Moves Fusion Goalposts,sports,11,1,staplung,2026-09-13T16:40:18.450970
+49682062,Race-Switching the Dukes of Hazzard,sports,1,0,jjgreen,2026-09-13T16:41:47.023193
+49681313,"Show HN: How LLMs work, explained through music, football or cricket analogies",sports,1,0,understandaidev,2026-09-13T16:42:28.802313
+49680870,Find investors for your startup – Investor Match Guaranteed,sports,1,0,liranbr,2026-09-13T16:42:58.555891
+49679949,Data races and the limits of ThreadSanitizer in C and Go,sports,4,0,matt_d,2026-09-13T16:43:54.560840
+49678706,AI Infra and Compute Debt: Duration Mismatch vs. Market Momentum,sports,2,0,aigalaxiome,2026-09-13T16:44:41.033565
+49678108,Find investors for your startup – Investor Match Guarantee,sports,3,0,liranbr,2026-09-13T16:45:10.355788
+49677896,Show HN: Practice English Grammar and Pronunciation (Uses Azure Speech),sports,2,1,MarkMc,2026-09-13T16:45:24.415726
+49678435,AgentsDock: An IDE designed for agentic AI research,science,64,29,ZihuiGeorgia,2026-09-13T16:45:42.351258
+49626718,A Design Space Exploration of Async/Await,science,443,128,wcrichton,2026-09-13T16:46:06.959566
+49680858,Why So Many AI Researchers Think the Machines Could Kill Everyone,science,13,14,joozio,2026-09-13T16:46:16.577808
+49679717,MacFileSizing – What is consuming my disk space?,science,4,0,jaccon,2026-09-13T16:46:38.341903
+49624717,AlphaGenome maps 9B DNA variants,science,103,7,ltononro,2026-09-13T16:46:53.223982
+49662214,λ Snap – An inviting programming language for kids and adults for CS study,science,179,112,dr_kiszonka,2026-09-13T16:46:59.304522
+49681012,"AI agents tested by OpenAI involved in cyber-attack on service, say researchers",science,5,0,nobody9999,2026-09-13T16:47:02.649690
+49680978,New Science Says Scrapping a Working Gas Car for an EV Is Usually Greener,science,3,0,xbmcuser,2026-09-13T16:47:06.991269
+49624456,Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them,science,154,48,bookofjoe,2026-09-13T16:47:15.948001
+49678918,Scientists Create a New Form of Ice at More Than 2000°C,science,18,6,jnord,2026-09-13T16:47:58.499672
+49681720,Musk's secretive backer builds $40B SpaceX stake,science,5,1,sbulaev,2026-09-13T16:48:03.533541
+49667375,Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies,science,143,85,upofadown,2026-09-13T16:48:37.144002
+49665711,AI researchers debate how close we are to recursive self-improvement,science,117,116,artninja1988,2026-09-13T16:48:46.165983
+49639408,More questions about whether researchers can trust OpenAI with unpublished math,science,866,813,pred_,2026-09-13T16:48:50.172879
+49670493,"Resistance Training Prescription for Muscle Function, Hypertrophy in Health",science,58,33,ultral,2026-09-13T16:48:53.422486
+49637544,Experimental Evaluation Methodology for the Era of No Steady Performance [pdf],science,6,1,luu,2026-09-13T16:49:01.262203
+49628429,Planet Labs' open satellite feed,science,188,34,marklit,2026-09-13T16:49:09.084339
+49611251,AlphaGenome Atlas: a high-resolution map of human DNA,science,604,133,utiiiD,2026-09-13T16:50:09.492881
+49622561,How GPT‑5.6 Sol helps run quantum computing experiments,science,149,107,theanonymousone,2026-09-13T16:50:21.199574
+49678677,Novel Realizations of Warp Drive Spacetimes as Solutions of General Relativity,science,3,1,lambdaone,2026-09-13T16:50:39.150613
+49653328,Exercise intensity is associated with cardiometabolic health,science,138,73,qclibre22,2026-09-13T16:51:14.411286
+49610641,AlphaGenome Atlas predictive map of every DNA letter change in the human genome,science,91,13,fady0,2026-09-13T16:51:25.236642
+49611230,ZX Spectrum: Experimenting with 1-Bit Sound,science,108,37,ibobev,2026-09-13T16:51:32.131596
+49656496,The Waymo effect: how AI is quietly making research less collaborative,science,332,299,JohnHammersley,2026-09-13T16:52:38.583659
+49652239,Towards a taxonomy of cliches in Space Opera,science,10,0,rznicolet,2026-09-13T16:53:23.596565
+49645480,"LG denies TV spying claims, says tracking and snooping concerns 'not true'",entertainment,543,423,datakan,2026-09-13T16:53:57.458143
+49658672,I fixed a tractor using John Deere's self-repair service. Farmers aren't sold,entertainment,130,142,sbulaev,2026-09-13T16:54:18.680236
+49644603,Show HN: See Sounds on Your Webcam,entertainment,17,5,jimhi,2026-09-13T16:54:48.117163
+49653683,Metamorphosis: Transformations in the Early Modern Flap Book (19th Century),entertainment,5,0,benbreen,2026-09-13T16:54:55.807372
+49649789,Show HN: Bodily Oddities,entertainment,324,201,vesterde,2026-09-13T16:55:14.197707
+49677480,Show HN: What If Donut.c but with Any ASCII Art,entertainment,11,1,areofyl,2026-09-13T16:55:22.381348
+49665864,"Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",entertainment,67,25,mirza_rizvi,2026-09-13T16:55:41.618583
+49677916,Japan's book scene is quietly moving from bookstores to libraries,entertainment,28,1,herbertl,2026-09-13T16:55:42.958364
+49660676,Show HN: Godot and Rust based multiplexer (terminal panes and more),entertainment,93,48,1nv1n,2026-09-13T16:56:14.959795
+49678711,Show HN: Most Penalized HN Stories,entertainment,17,3,jwarden,2026-09-13T16:56:35.855959
+49674280,"Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",entertainment,6,1,carsonpoole,2026-09-13T16:56:52.465730
+49659647,"Show HN: Hacker News, without AI",entertainment,200,88,postalcoder,2026-09-13T16:57:04.035333
+49637385,Show HN: What if the speed of light was 5 km/h?,entertainment,618,282,dmitrybrant,2026-09-13T16:57:20.475889
+49667188,Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents,entertainment,42,21,zachsaw,2026-09-13T16:57:37.692802
+49647134,Music Theory for the 21st-Century Classroom,entertainment,299,146,aanet,2026-09-13T16:57:46.585115
+49662496,"Show HN: Toast, a by default in-terminal IDE",entertainment,81,88,dividedcomet,2026-09-13T16:57:58.765962
+49623398,Show HN: Compute polynomials twice as fast,entertainment,136,42,thomasahle,2026-09-13T16:58:00.986411
+49660783,"Show HN: Hacker News, Without AI",entertainment,193,80,otherayden,2026-09-13T16:58:04.843097
+49679450,Apple *deletes* your Apple Music library if you unsubscribe,entertainment,17,6,behnamoh,2026-09-13T16:58:05.951098
+49633534,Factoring RSA 260,entertainment,132,18,samyok,2026-09-13T16:58:08.588643
+49669012,Show HN: Don't Hit Send – the model answers while you type,entertainment,7,2,RomulusHill,2026-09-13T16:58:27.371680
+49630125,"Show HN: DOOM in the kernel, or fibers in eBPF",entertainment,52,14,ayles,2026-09-13T16:58:32.873217
+49663429,Show HN: I built a hand-modeled 3D Windows 98 portfolio with Three.js,entertainment,15,4,Abstract2D,2026-09-13T16:58:42.525711
+49678173,The Fear Index [Book],entertainment,7,0,BiraIgnacio,2026-09-13T16:58:51.853628
+49645803,"Show HN: MultiMatte, a Promptable Image Background Removal Model",entertainment,55,8,snyy,2026-09-13T16:58:57.171260
